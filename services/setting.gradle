@@ -1,0 +1,6 @@
+include 'judkai-account-service'
+include 'judkai-customer-service'
+include 'judkai-order-service'
+include 'judkai-payment-service'
+include 'judkai-product-service'
+include 'judkai-store-service'
