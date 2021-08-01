@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'io.digtalready'
+group = 'io.digtalready.judkai'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
