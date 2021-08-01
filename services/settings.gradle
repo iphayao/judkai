@@ -1,3 +1,5 @@
+rootProject.name = 'judkai-services'
+
 include 'judkai-account-service'
 include 'judkai-customer-service'
 include 'judkai-order-service'
